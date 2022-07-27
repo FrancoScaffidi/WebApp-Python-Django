@@ -1,5 +1,5 @@
 # Página web Blog.
-Se trata de una web tipo blog realizada utilizando el framework de Django como proyecto final del curso de Python en CoderHouse. 
+Se trata de una web tipo blog realizada utilizando el framework Django como proyecto final del curso de Python en CoderHouse. 
 
 #### Instrucciones para su uso
 
@@ -13,4 +13,4 @@ Una vez inicializada la aplicación, se pone disponible para visitar la url de I
 
 ## Vídeo de prueba
 
-Cick [acá](https://www.youtube.com/watch?v=mlJYcCqZYgg&t=3s) para ver una desmotración de la página en funcionamiento 
+Click [acá](https://www.youtube.com/watch?v=mlJYcCqZYgg&t=3s) para ver una demostración de la página en funcionamiento 
